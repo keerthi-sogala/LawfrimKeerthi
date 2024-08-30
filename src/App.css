@@ -1,0 +1,7 @@
+.App{
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+  background-color: #1d1d1d;
+  scroll-behavior: smooth;
+}
